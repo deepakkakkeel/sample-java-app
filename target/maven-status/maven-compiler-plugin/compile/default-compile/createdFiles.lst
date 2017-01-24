@@ -1,0 +1,8 @@
+com\atlas\rest\AtlasController.class
+com\atlas\data\JPADao.class
+com\atlas\data\DAO.class
+com\atlas\biz\SimpleAtlas.class
+com\atlas\api\CountryNotFoundException.class
+com\atlas\api\Atlas.class
+com\atlas\api\AtlasException.class
+com\atlas\api\Country.class
